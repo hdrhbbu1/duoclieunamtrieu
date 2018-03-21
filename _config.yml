@@ -1,9 +1,9 @@
 # Site settings
-title: "Đoàn Bình và Thầy Lang"
-url-title: "Thuốc Nam"
-description: "Đoàn Bình và Thuốc Nam"
+title: "Đoàn Bình và Dược Liệu"
+url-title: "Dược Liệu"
+description: "Đoàn Bình và Dược Liệu"
 paginate: 100
-url: "http://mipateheo.com"
+url: "http://duoclieunamtrieu.net/"
 permalink: /:year/:month/:title/
 future: false
 defaults:
